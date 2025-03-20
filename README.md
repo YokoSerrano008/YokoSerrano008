@@ -1,8 +1,8 @@
 ## Hi there 👋
-**YokoSerrano008/YokoSerrano008** is a ✨ _special_ ✨ repository 
+Is a ✨ _special_ ✨ repository 
 <h1 align='center'> I'm Yoko Serrano
 
-<p align='center'>👨‍💻 Diseñadora Gráfica y UI| 👨‍🚀</p>
+<p align='center'>👨‍💻 Diseñadora Gráfica y UI 👨‍🚀</p>
 
 <div align='center'>
   <a href="https://www.linkedin.com/in/yolanda-s-a21393236/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
