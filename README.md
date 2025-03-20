@@ -1,6 +1,6 @@
-## Hi there 👋
-Is a ✨ _special_ ✨ repository 
-<h1 align='center'> I'm Yoko Serrano
+<h1 aligin='center'>  ## Hi there 👋 </h1>
+
+<h2 align='center'> I'm Yoko Serrano </h2>
 
 <p align='center'>👨‍💻 Diseñadora Gráfica y UI 👨‍🚀</p>
 
